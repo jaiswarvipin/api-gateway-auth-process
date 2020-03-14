@@ -1,0 +1,19 @@
+{
+  "name": "apigateway-auth-process",
+  "version": "1.0.1",
+  "description": "This Modules helps to process the Authrization of the each reqeust.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaiswarvipin/api-gateway-auth-process.git"
+  },
+  "author": "Jaiswar Vipin Kumar R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaiswarvipin/api-gateway-auth-process/issues"
+  },
+  "homepage": "https://github.com/jaiswarvipin/api-gateway-auth-process#readme"
+}
